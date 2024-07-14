@@ -13,3 +13,5 @@ Requirements:
 2. Pandas    https://pandas.pydata.org/
 3. Python    https://www.python.org/
 ```
+# Step
+1. open `color_detection.py` file
