@@ -2,6 +2,7 @@ import cv2
 import pandas
 #you can change images path
 img_path = 'pic (1).jpg'
+#csv path
 csv_path = 'colors.csv'
 
 # reading csv file
