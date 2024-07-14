@@ -14,4 +14,5 @@ Requirements:
 3. Python    https://www.python.org/
 ```
 # Step
-1. open `color_detection.py` file
+1. Open `color_detection.py` file
+2. Run the python file
