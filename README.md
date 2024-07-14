@@ -14,6 +14,7 @@ Requirements:
 3. Python    https://www.python.org/
 ```
 # Steps
+```
 1. Open `color_detection.py` file
 2. Run the python file
 3. Click on any point of selected image
